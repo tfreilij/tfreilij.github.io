@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tfreilij.github.io/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/tfreilij.github.io/static/js/main.da4aef96.chunk.js",
+    "main.js.map": "/tfreilij.github.io/static/js/main.da4aef96.chunk.js.map",
+    "runtime-main.js": "/tfreilij.github.io/static/js/runtime-main.02c10d80.js",
+    "runtime-main.js.map": "/tfreilij.github.io/static/js/runtime-main.02c10d80.js.map",
+    "static/js/2.7e740e81.chunk.js": "/tfreilij.github.io/static/js/2.7e740e81.chunk.js",
+    "static/js/2.7e740e81.chunk.js.map": "/tfreilij.github.io/static/js/2.7e740e81.chunk.js.map",
+    "static/js/3.1a767b79.chunk.js": "/tfreilij.github.io/static/js/3.1a767b79.chunk.js",
+    "static/js/3.1a767b79.chunk.js.map": "/tfreilij.github.io/static/js/3.1a767b79.chunk.js.map",
+    "index.html": "/tfreilij.github.io/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/tfreilij.github.io/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.7e740e81.chunk.js.LICENSE.txt": "/tfreilij.github.io/static/js/2.7e740e81.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/tfreilij.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02c10d80.js",
+    "static/js/2.7e740e81.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.da4aef96.chunk.js"
+  ]
+}
